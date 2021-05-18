@@ -1,0 +1,23 @@
+PowerShell and CSV:
+https://app.pluralsight.com/library/courses/csv-data-powershell
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/convertto-csv?view=powershell-7.1
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/convertfrom-csv?view=powershell-7.1
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/export-csv?view=powershell-7.1
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv?view=powershell-7.1
+
+PowerShell and XML:
+https://docs.microsoft.com/en-us/dotnet/standard/serialization/introducing-xml-serialization
+https://app.pluralsight.com/library/courses/xml-data-powershell
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-clixml?view=powershell-7.1
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/export-clixml?view=powershell-7.1
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/convertto-xml?view=powershell-7.1
+
+Powershell and JSON:
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/convertto-json?view=powershell-7.1
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/convertfrom-json?view=powershell-7.1
+https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/bb299886(v=msdn.10)
+
+PowerShell and HTML:
+https://adamtheautomator.com/powershell-convertto-html/
+https://leanpub.com/creatinghtmlreportsinwindowspowershell/read
+https://app.pluralsight.com/library/courses/reporting-powershell-enhanced-html/table-of-contents

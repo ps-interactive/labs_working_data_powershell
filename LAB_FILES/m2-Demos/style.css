@@ -1,0 +1,45 @@
+body
+    {
+        background-color: #e5e5e5;
+        color: #171717;
+        font-family:Gotham
+    }
+
+td
+    {
+        border:1px solid black; 
+        border-collapse:collapse;
+        white-space:pre;
+    }
+
+th
+    {
+        color:white;
+        background-color:#675BA7;
+    }
+
+table, tr, td, th
+    {
+        padding: 2px;
+        margin: 0px;
+        white-space: pre;
+    }
+
+table
+    {
+        width:95%;
+        margin-left:5px;
+        margin-bottom:20px;
+    }
+
+h1
+    {
+        font-family:Gotham;
+        color:#F15B2A;
+    }
+
+h2
+    {
+        font-family:Gotham;
+        color:#2A9FBC;
+    }

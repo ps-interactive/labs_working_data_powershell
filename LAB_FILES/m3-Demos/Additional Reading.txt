@@ -1,0 +1,12 @@
+Invoke-WebRequest:
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest
+
+Invoke-RestMethod:
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-restmethod
+
+Github REST API Documentation:
+https://docs.github.com/en/free-pro-team@latest/rest
+
+Web Application Session example with Invoke-WebRequest:
+powershellcookbook.com/recipe/vODQ/script-a-web-application-session
+
